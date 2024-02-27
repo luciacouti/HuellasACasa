@@ -1,0 +1,18 @@
+.error-404-page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.error-404-page h1{
+    font-size: 100px;
+    color: #000;
+}
+
+.error-404-page .errro-404-message{
+    font-size: 30px;
+    color: #000;
+    margin: 2rem;
+}
